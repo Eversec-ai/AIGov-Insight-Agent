@@ -1,6 +1,9 @@
-# AI-SEC-Agent
+# AIGov-Insight-Agent
 
-基于 eBPF 技术的 AI 安全监控探针，用于观测 AI 智能体和 LLM 应用的网络流量、ROS2 通信以及系统行为。
+[![Eversec](https://img.shields.io/badge/Eversec-CN-blue?link=https://www.eversec.com.cn)](https://www.eversec.com.cn) [![Eversec.AI](https://img.shields.io/badge/Eversec-AI-green?link=https://www.eversec.com.cn)](https://www.eversec.com.cn) 
+[![GitHub stars](https://img.shields.io/github/stars/Eversec-AI/AIGov-Insight-Agent?style=social)](https://github.com/Eversec-AI/AIGov-Insight-Agent/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Eversec-AI/AIGov-Insight-Agent?style=social)](https://github.com/Eversec-AI/AIGov-Insight-Agent/network/members) [![GitHub release](https://img.shields.io/github/v/release/eversec/AIGov-Insight-Agent?include_prereleases)](https://github.com/eversec/AIGov-Insight-Agent/releases)
+
+基于 eBPF 技术的 AI 安全监控探针，用于观测 AI 智能体 / 🦞 Openclaw 和 LLM 应用的网络流量、ROS2 通信以及系统行为。
 
 ## 系统要求
 
