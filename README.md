@@ -5,6 +5,8 @@
 
 基于 eBPF 技术的 AI 安全监控探针，用于观测 AI 智能体 / 🦞 Openclaw 和 LLM 应用的网络流量、ROS2 通信以及系统行为。
 
+> **注意**: 本仓库仅包含 AI 智能数据采集探针， Web 可视化层参见 [AIGov-Insight Web](https://github.com/Eversec-ai/AIGov-Insight-Web)。
+
 ## 系统要求
 
 | 项目 | 要求 |
@@ -15,6 +17,10 @@
 
 
 ## 安装
+
+### 获取安装包
+
+从 [Github Release 发布页](https://github.com/Eversec-ai/AIGov-Insight-Agent/releases) 下载最新版本安装包
 
 ### 安装 DEB 包
 
