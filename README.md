@@ -34,7 +34,7 @@
 
 ### AI 流量监控
 
-通过 TC (Traffic Control) eBPF 程序监控 AI 智能体和 LLM 应用的 HTTP/HTTPS 流量。
+通过 TC (Traffic Control) eBPF 程序监控 AI 智能体/LLM/MCP/RAG/OpenClaw 等应用流量。
 
 | 协议 | 说明 |
 |------|------|
@@ -103,6 +103,10 @@
 - 进程执行事件
 - 命令行参数、父进程信息
 - 风险等级过滤
+
+### 🦞 OpenClaw 
+
+> 目前支持到 openclaw 的 2026.2.9 版本
 
 ---
 
