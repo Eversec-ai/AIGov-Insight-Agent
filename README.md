@@ -7,8 +7,10 @@
 基于 eBPF 技术的 AI 智能体全链路可观测探针，用于观测 AI 智能体和 LLM 应用的网络流量、ROS2 通信以及系统指令执行、系统文件访问等行为。AIGov-Insight Web 与 AIGov-Insight Agent 共同构成大模型与智能体安全治理平台的核心双引擎。
 
 
-[![Eversec](https://img.shields.io/badge/Eversec-CN-blue?link=https://www.eversec.com.cn)](https://www.eversec.com.cn) [![Eversec.AI](https://img.shields.io/badge/Eversec-AI-green?link=https://www.eversec.com.cn)](https://www.eversec.com.cn) 
+[![Eversec](https://img.shields.io/badge/Eversec-CN-blue?link=https://www.eversec.com.cn)](https://www.eversec.com.cn) [![Eversec.AI](https://img.shields.io/badge/AIGov-Insight-green?link=[https://www.eversec.com.cn](https://dreamheart09.github.io/page-AstroWind/))](https://dreamheart09.github.io/page-AstroWind/) 
+
 [![GitHub stars](https://img.shields.io/github/stars/Eversec-AI/AIGov-Insight-Agent?style=social)](https://github.com/Eversec-AI/AIGov-Insight-Agent/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Eversec-AI/AIGov-Insight-Agent?style=social)](https://github.com/Eversec-AI/AIGov-Insight-Agent/network/members) [![GitHub release](https://img.shields.io/github/v/release/Eversec-AI/AIGov-Insight-Agent?include_prereleases)](https://github.com/Eversec-AI/AIGov-Insight-agent/releases)
+
 [![Platform](https://img.shields.io/badge/Platform-Ubuntu%2022.04%20LTS-orange)](https://ubuntu.com/) [![Architecture](https://img.shields.io/badge/Arch-x86__64-blue)](https://en.wikipedia.org/wiki/X86-64) [![Kernel](https://img.shields.io/badge/Kernel-%3E%3D5.4-green)](https://www.kernel.org/) [![eBPF](https://img.shields.io/badge/Technology-eBPF-purple)](https://ebpf.io/)
 
 [English](#english) | [中文文档](#中文文档)
